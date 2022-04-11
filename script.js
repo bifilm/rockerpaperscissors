@@ -1,4 +1,4 @@
-window.addEventListener('load', function(){
+
     //computer's play
     let playerScore=0;
     let computerScore=0;
@@ -68,5 +68,5 @@ buttons.forEach((button) => {
 // }
 
 
-});
+
 
